@@ -1,0 +1,9 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json": "/*",
+        "https://json.schemastore.org/circleciconfig.json": [
+            "/*",
+            "file:///root/dev/circleCI_projects/adding_a_manual_approval/.circleci/config.yml"
+        ]
+    }
+}
