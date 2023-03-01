@@ -40,7 +40,7 @@ jobs:
 workflows:
   Example-Workflow:
     jobs:
-      - Hello-Wold
+      - Hello-World
       - Fetch-Code:
           requires:
             - Hello-World
